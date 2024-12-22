@@ -13,7 +13,7 @@ templates:
     namespace: default
     # Renovate used to upgrade this dependency.
     chart: bitnami/redis
-    version: 20.4.0
+    version: 20.6.1
 releases:
   - name: redis
     <<: *default-redis-config
